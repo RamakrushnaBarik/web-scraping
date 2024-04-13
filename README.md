@@ -20,4 +20,4 @@ Download and installation of software process
 
 collect data from your favorite website
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-in the code file you can change your url link . I do with "MOBILES UNDER 50000 ON FLIPKART MARKETPLACE" . I collect- mobile name with company , price , specification and review etc .
+in the code file you can change your url link . I do with "MOBILES UNDER 50000 FROM FLIPKART MARKETPLACE" . data collect like - mobile name with company , price , specification and review etc .
